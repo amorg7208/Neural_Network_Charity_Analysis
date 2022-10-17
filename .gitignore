@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Ignore CSV files
+/Users/amanda/Desktop/UCBComplete/Neural_Network_Charity_Analysis/charity_data.csv
+/Users/amanda/Desktop/UCBComplete/Neural_Network_Charity_Analysis/Module_Work/19_Initial_Module_Work/hr_dataset.csv
+/Users/amanda/Desktop/UCBComplete/Neural_Network_Charity_Analysis/Module_Work/19_Initial_Module_Work/ramen-ratings.csv
+/Users/amanda/Desktop/UCBComplete/Neural_Network_Charity_Analysis/Module_Work/IMB_Employee_Attrition/HR-Employee-Attrition.csv
+/Users/amanda/Desktop/UCBComplete/Neural_Network_Charity_Analysis/Module_Work/LogisticRegression_NeuralNet/diabetes.csv
+/Users/amanda/Desktop/UCBComplete/Neural_Network_Charity_Analysis/Module_Work/RandomForest_DeepLearning/loan_status.csv
+/Users/amanda/Desktop/UCBComplete/Neural_Network_Charity_Analysis/Module_Work/SVM_DeepLearning/bank_telemarketing.csv
+
 # C extensions
 *.so
 
